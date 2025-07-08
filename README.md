@@ -1,18 +1,18 @@
-# 🎮 Analyse du Marché des Jeux Vidéo sur Steam
+#  Analyse du Marché des Jeux Vidéo sur Steam
 
-## 1. 🏢 L’entreprise
+## 1.  L’entreprise
 
 **Ubisoft** est un éditeur français de jeux vidéo reconnu mondialement. Dans une démarche d’innovation, l’entreprise souhaite développer un nouveau jeu révolutionnaire, en s'appuyant sur une compréhension approfondie du marché actuel.
 
-## 2. 🧩 Contexte
+## 2.  Contexte
 
 La plateforme **Steam**, développée par Valve, est aujourd’hui le principal acteur de la distribution numérique de jeux vidéo. Elle héberge des milliers de jeux de tous types et de tous éditeurs. Pour accompagner sa stratégie produit, Ubisoft souhaite tirer parti des données disponibles sur Steam afin de mieux cerner les tendances du marché vidéoludique.
 
-## 3. 🎯 Objectif
+## 3.  Objectif
 
 L’objectif de ce projet est de mener une **analyse exploratoire des données (EDA)** à l’échelle de la plateforme Steam, afin d’identifier les facteurs qui influencent la **popularité**, la **rentabilité** ou la **répartition** des jeux. Cette étude vise à fournir à Ubisoft des **indicateurs clés de marché** pour orienter ses décisions stratégiques.
 
-## 4. 📊 Analyses réalisées
+## 4.  Analyses réalisées
 
 L’analyse s’articule autour de trois axes principaux :
 
@@ -20,7 +20,7 @@ L’analyse s’articule autour de trois axes principaux :
 - **Analyse par genres** : identification des genres les plus fréquents, les mieux notés, les plus rentables et des préférences éditoriales selon les éditeurs.
 - **Analyse par plateformes** : répartition des jeux entre Windows, Mac et Linux, et identification des affinités entre genres et plateformes.
 
-> 🔎 **Des visualisations interactives** (graphiques, diagrammes, tableaux) accompagnent chaque partie dans le notebook pour faciliter l’interprétation des résultats.
+>  **Des visualisations interactives** (graphiques, diagrammes, tableaux) accompagnent chaque partie dans le notebook pour faciliter l’interprétation des résultats.
 
 ## 5. 🔗 Lien vers le notebook Databricks
 
