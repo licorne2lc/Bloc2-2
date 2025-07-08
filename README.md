@@ -30,10 +30,9 @@ L’analyse s’articule autour de trois axes principaux :
 
 - **PySpark** : traitement distribué des données semi-structurées (JSON).
 - **Databricks** : environnement cloud de traitement Big Data et visualisation interactive.
-- **Fonctions Spark SQL** : manipulation de données imbriquées, agrégations, transformations.
-- **Databricks Dashboard** : création de visualisations intégrées et interactives pour explorer les données.
 
-## 7. 👤 Auteur
+
+## 7.  Auteur
 
 - **Nom** : Moulinier Jeraome
 - **Certification** : RNCP35288 - bloc2
