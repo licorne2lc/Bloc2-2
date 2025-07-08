@@ -37,4 +37,4 @@ L’analyse s’articule autour de trois axes principaux :
 
 - **Nom** : Moulinier Jeraome
 - **Certification** : RNCP35288 - bloc2
-- **Date** : Juillet 2025
+
